@@ -63,11 +63,11 @@ class AuditModel:
 
 
 if __name__ == "__main__":
-    train_data = "train_data"
+    train_data = "cable_test"
     test_images = "test_data"
 
-    audit_model = AuditModel(train_data, test_images)
+    audit_model = AuditModel(train_data, test_images, "runs/segment/train2/weights/best.pt")
 
-    # model.train()
-    # model.val()
-    # audit_model.predict()
+    # audit_model.train()
+    # audit_model.val()
+    audit_model.predict()
