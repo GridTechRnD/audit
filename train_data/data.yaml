@@ -1,0 +1,10 @@
+path: /home/gzeloni/svm_test/image_classification_test
+train: train/images
+val: val/images
+
+nc: 4
+names:
+  0: disjuntor
+  1: medidor
+  2: codigo_de_barras
+  3: cabo
