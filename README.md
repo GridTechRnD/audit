@@ -79,4 +79,4 @@ Uncomment `audit_model.predict()` to run predictions on images in `test_data/`. 
 ## References
 
 - [Ultralytics YOLO Docs](https://docs.ultralytics.com/)
-- [Example data.yaml configuration](https://docs.ultralytics.com/datasets/segmentation/)
+- [Example data.yaml configuration](https://docs.ultralytics.com/pt/datasets/#instance-segmentation)
