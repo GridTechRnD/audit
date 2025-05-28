@@ -1,4 +1,4 @@
-path: /home/gzeloni/svm_test/image_classification_test
+path: /home/gzeloni/audit/train_data
 train: train/images
 val: val/images
 
